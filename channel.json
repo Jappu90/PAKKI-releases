@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
-  "notes": "Optimized switcher refresh, corrected display/update races, improved keyboard focus and signed same-version repair. Preview build.",
-  "bytes": 64671020,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.6-preview.1/PAKKI-update.zip"
+  "version": "0.5.7",
+  "notes": "Installer automatically recovers an older unstarted or failed pending release using a verified newer payload. Preview build.",
+  "bytes": 64671050,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.7-preview.1/PAKKI-update.zip"
 }
