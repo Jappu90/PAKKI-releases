@@ -1,6 +1,6 @@
 {
-  "version": "0.5.10",
-  "notes": "Normal isolated browsing with popup login, safe downloads and origin-labelled permissions; multiple browser windows, compact controls, refined app selection, last-check metadata, full-width tasks and prepared first-use Apps. Preview build.",
-  "bytes": 64696524,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.10-preview.1/PAKKI-update.zip"
+  "version": "0.5.11",
+  "notes": "Searchable software management with version-aware targets and Home actions, clear independent webpage identities, shared touch item lists, responsive task layout and deferred settings/system-surface loading.",
+  "bytes": 64710040,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.11-preview.1/PAKKI-update.zip"
 }
