@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
-  "notes": "Operator-initiated signed updates, offline installation and rollback. Evaluation build.",
-  "bytes": 64673774,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.3-evaluation.1/PAKKI-update.zip"
+  "version": "0.5.4",
+  "notes": "Desktop and Start menu launch shortcuts, corrected display scale, scrollable submenus, and deferred Chat/audio routing. Preview build.",
+  "bytes": 64670420,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.4-preview.1/PAKKI-update.zip"
 }
