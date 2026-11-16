@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
-  "notes": "Desktop and Start menu launch shortcuts, corrected display scale, scrollable submenus, and deferred Chat/audio routing. Preview build.",
-  "bytes": 64670420,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.4-preview.1/PAKKI-update.zip"
+  "version": "0.5.5",
+  "notes": "Text-only submenu headings, contextual actions after content, and consistent task alignment. Preview build.",
+  "bytes": 64670179,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.5-preview.1/PAKKI-update.zip"
 }
