@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
-  "notes": "Installer automatically recovers an older unstarted or failed pending release using a verified newer payload. Preview build.",
-  "bytes": 64671050,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.7-preview.1/PAKKI-update.zip"
+  "version": "0.5.8",
+  "notes": "Consistent touch surfaces and sizing, top-left launchers, nonblocking updates in Recovery, WLAN capability handling and full-screen dock bounds. Factory reset remains unexposed and non-executable. Preview build.",
+  "bytes": 64673394,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.8-preview.1/PAKKI-update.zip"
 }
