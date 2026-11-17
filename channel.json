@@ -1,6 +1,6 @@
 {
-  "version": "0.5.12",
-  "notes": "Settings load with the workspace. Shared collection layouts give software a full-height bounded list with narrower search and details, responsive pane controls and contained scrolling.",
-  "bytes": 64705802,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.12-preview.1/PAKKI-update.zip"
+  "version": "0.5.13",
+  "notes": "Fix canonical software directory ownership, reduce repeated inventory path work and isolate unreadable application registrations.",
+  "bytes": 64706716,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.13-preview.1/PAKKI-update.zip"
 }
