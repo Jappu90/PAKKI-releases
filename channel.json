@@ -1,6 +1,6 @@
 {
-  "version": "0.5.15",
-  "notes": "Shared software management and touch commands; safe browser address entry; coordinated PAKKI browser shutdown for updates and confirmed Quit to Windows. Close webpages manually for the first upgrade from 0.5.14.",
-  "bytes": 64732587,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.15-preview.1/PAKKI-update.zip"
+  "version": "0.5.16",
+  "notes": "Touch Home ordering through Edit and Position on Home; successful installations add recognized apps to Home and repair existing bindings. Protects edits from stale refreshes and retains installation results. Bounded details, simpler copy, local clock/System date settings and Windows component filtering. Publisher signature policy remains enforced. Close webpages manually when upgrading from 0.5.14 or earlier.",
+  "bytes": 64733962,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.16-preview.1/PAKKI-update.zip"
 }
