@@ -1,6 +1,6 @@
 {
-  "version": "0.5.16",
-  "notes": "Touch Home ordering through Edit and Position on Home; successful installations add recognized apps to Home and repair existing bindings. Protects edits from stale refreshes and retains installation results. Bounded details, simpler copy, local clock/System date settings and Windows component filtering. Publisher signature policy remains enforced. Close webpages manually when upgrading from 0.5.14 or earlier.",
-  "bytes": 64733962,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.16-preview.1/PAKKI-update.zip"
+  "version": "0.5.17",
+  "notes": "Visual Home tile movement with Undo, reusable category choices, bounded inline installation progress, consistent System groups, wider shared popups, and in-app clock/time-zone settings with configurable formats and seconds by default.",
+  "bytes": 64737868,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.17-preview.1/PAKKI-update.zip"
 }
