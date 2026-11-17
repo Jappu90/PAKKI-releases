@@ -1,6 +1,6 @@
 {
-  "version": "0.5.19",
-  "notes": "Compact System settings and update metadata, aligned date/time controls, stable bottom Home editing actions and clearer placement targets. Shared stylesheet; Windows synchronization unchanged.",
-  "bytes": 64739752,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.19-preview.1/PAKKI-update.zip"
+  "version": "0.5.20",
+  "notes": "Live search, focused software filters, persistent visual tile movement, touch time editing and concise identity status.",
+  "bytes": 64740416,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.20-preview.1/PAKKI-update.zip"
 }
