@@ -1,6 +1,6 @@
 {
-  "version": "0.5.14",
-  "notes": "Optional verified software downloads; resilient installer recovery; shared Home editing, software management, responsive touch controls and browser scrollbars.",
-  "bytes": 64724693,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.14-preview.1/PAKKI-update.zip"
+  "version": "0.5.15",
+  "notes": "Shared software management and touch commands; safe browser address entry; coordinated PAKKI browser shutdown for updates and confirmed Quit to Windows. Close webpages manually for the first upgrade from 0.5.14.",
+  "bytes": 64732587,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.15-preview.1/PAKKI-update.zip"
 }
