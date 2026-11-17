@@ -1,6 +1,6 @@
 {
-  "version": "0.5.18",
-  "notes": "Stable install/cancel actions, shared touch search, consistent System settings, bounded time popup with Windows synchronization unchanged, single-row dock with corrected clipping, and browser address entry to the right of controls at 1080p/common scaling.",
-  "bytes": 64739664,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.18-preview.1/PAKKI-update.zip"
+  "version": "0.5.19",
+  "notes": "Compact System settings and update metadata, aligned date/time controls, stable bottom Home editing actions and clearer placement targets. Shared stylesheet; Windows synchronization unchanged.",
+  "bytes": 64739752,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.19-preview.1/PAKKI-update.zip"
 }
