@@ -1,6 +1,6 @@
 {
-  "version": "0.5.22",
-  "notes": "Sennheiser/Shure optional downloads; official Dante sign-in; background apps and Windows tray; confirmed uninstall; stable tile moving and 150% scale cap. Proprietary downloads require licence review; all dependency/framework notices are retained. Vendor/device acceptance and OEM rights remain separate.",
-  "bytes": 64784597,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.22-preview.1/PAKKI-update.zip"
+  "version": "0.5.23",
+  "notes": "Consistent action and license layouts, bounded browser controls, reliable background-app detection and canceled vendor-picker isolation.",
+  "bytes": 64786728,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.23-preview.1/PAKKI-update.zip"
 }
