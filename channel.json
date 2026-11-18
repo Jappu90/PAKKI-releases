@@ -1,6 +1,6 @@
 {
-  "version": "0.5.21",
-  "notes": "Update details stay within Software updates. Set time automatically controls Windows synchronization from the popup footer.",
-  "bytes": 64742899,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.21-preview.1/PAKKI-update.zip"
+  "version": "0.5.22",
+  "notes": "Sennheiser/Shure optional downloads; official Dante sign-in; background apps and Windows tray; confirmed uninstall; stable tile moving and 150% scale cap. Proprietary downloads require licence review; all dependency/framework notices are retained. Vendor/device acceptance and OEM rights remain separate.",
+  "bytes": 64784597,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.22-preview.1/PAKKI-update.zip"
 }
