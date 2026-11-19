@@ -1,6 +1,6 @@
 {
-  "version": "0.5.28",
-  "notes": "Unified popup headers, scroll areas and action footers; stable update commands with distinct primary and supporting areas. Release notes stay on demand. Verified interface, native host, core and updater behavior.",
-  "bytes": 64800816,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.28-preview.1/PAKKI-update.zip"
+  "version": "0.5.29",
+  "notes": "Polished shared popup and update layouts at 1080p and 150% scaling. Recovery actions stay visible beside scrolling errors; supporting options fit better and empty status no longer adds a scrollbar. Corrected dialog focus and avoided redundant timestamp formatting.",
+  "bytes": 64801075,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.29-preview.1/PAKKI-update.zip"
 }
