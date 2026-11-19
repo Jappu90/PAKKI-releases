@@ -1,6 +1,6 @@
 {
-  "version": "0.5.25",
-  "notes": "Background application window restoration and reachable touch controls; lightweight browser preferences; Modify application with Pin to Home and confirmed Uninstall; clearer update actions and popup release notes; shared responsive control sizing.",
-  "bytes": 64796748,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.25-preview.1/PAKKI-update.zip"
+  "version": "0.5.26",
+  "notes": "Systemwide confirmed Close window controls in Apps, with Home remaining the leave-app workflow; native close capability and stale snapshot guards; recoverable close-to-tray frames; shared responsive switcher layout.",
+  "bytes": 64800559,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.26-preview.1/PAKKI-update.zip"
 }
