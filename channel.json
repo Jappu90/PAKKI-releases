@@ -1,6 +1,6 @@
 {
-  "version": "0.5.29",
-  "notes": "Polished shared popup and update layouts at 1080p and 150% scaling. Recovery actions stay visible beside scrolling errors; supporting options fit better and empty status no longer adds a scrollbar. Corrected dialog focus and avoided redundant timestamp formatting.",
-  "bytes": 64801075,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.29-preview.1/PAKKI-update.zip"
+  "version": "0.5.30",
+  "notes": "Larger default app switcher, with space for close confirmation. Fixed native switcher allowlist rejecting Close window. Removed redundant update subdivision headings while keeping the accepted layout.",
+  "bytes": 64801314,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.30-preview.1/PAKKI-update.zip"
 }
