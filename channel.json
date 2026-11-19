@@ -1,6 +1,6 @@
 {
-  "version": "0.5.27",
-  "notes": "Tap running-app tiles to open them; hold for the close popup. Removed close mode and Refresh row. Shared opaque 2 px floating frames preserve tile space and contrast. Existing save prompts, close-to-tray recovery and stale-window protections remain.",
-  "bytes": 64800541,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.27-preview.1/PAKKI-update.zip"
+  "version": "0.5.28",
+  "notes": "Unified popup headers, scroll areas and action footers; stable update commands with distinct primary and supporting areas. Release notes stay on demand. Verified interface, native host, core and updater behavior.",
+  "bytes": 64800816,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.28-preview.1/PAKKI-update.zip"
 }
