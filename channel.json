@@ -1,6 +1,6 @@
 {
-  "version": "0.5.30",
-  "notes": "Larger default app switcher, with space for close confirmation. Fixed native switcher allowlist rejecting Close window. Removed redundant update subdivision headings while keeping the accepted layout.",
-  "bytes": 64801314,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.30-preview.1/PAKKI-update.zip"
+  "version": "0.5.31",
+  "notes": "Minimal blank browser with submitted DuckDuckGo search and private menu sessions by default. Automatic Apps refresh when tracked windows close, cleaner Display labels and shared 2 px borders. Existing isolated login, consent and download safeguards retained.",
+  "bytes": 64803189,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.31-preview.1/PAKKI-update.zip"
 }
