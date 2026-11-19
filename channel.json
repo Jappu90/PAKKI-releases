@@ -1,6 +1,6 @@
 {
-  "version": "0.5.24",
-  "notes": "Taskbar-free app interfaces, direct hidden-window restoration, single software identities and bounded startup failure reporting.",
-  "bytes": 64793798,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.24-preview.1/PAKKI-update.zip"
+  "version": "0.5.25",
+  "notes": "Background application window restoration and reachable touch controls; lightweight browser preferences; Modify application with Pin to Home and confirmed Uninstall; clearer update actions and popup release notes; shared responsive control sizing.",
+  "bytes": 64796748,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.25-preview.1/PAKKI-update.zip"
 }
