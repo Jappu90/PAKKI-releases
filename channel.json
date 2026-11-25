@@ -1,6 +1,6 @@
 {
-  "version": "0.5.32",
-  "notes": "Browser settings use Apply/Cancel, a page-size slider and top-bar visibility. Independent isolated browser creation runs concurrently. Display retains confirmed values without read-time navigation locks. Larger wrapping date/time and stable selected navigation. Machine identity moved to System.",
-  "bytes": 64803935,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.32-preview.1/PAKKI-update.zip"
+  "version": "0.5.33",
+  "notes": "Browser Cancel is disabled with no changes. Added WING Edit, REAPER, dLive Director and Harrison LiveTrax. Exact WinGet downloads are preferred where reviewed. Signed software catalog updates can ship separately.",
+  "bytes": 64814501,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.33-preview.1/PAKKI-update.zip"
 }
