@@ -1,6 +1,6 @@
 {
-  "version": "0.5.34",
-  "notes": "Per-app Update for reviewed REAPER x64 installations. Shows installed and target versions and keeps the installation verified through the existing acquisition flow.",
-  "bytes": 64818514,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.34-preview.1/PAKKI-update.zip"
+  "version": "0.5.35",
+  "notes": "Consistent settings actions, outlined sliders, clearer popups, and better separation of Browser and Display controls.",
+  "bytes": 64818719,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.35-preview.1/PAKKI-update.zip"
 }
