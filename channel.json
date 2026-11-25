@@ -1,6 +1,6 @@
 {
-  "version": "0.5.33",
-  "notes": "Browser Cancel is disabled with no changes. Added WING Edit, REAPER, dLive Director and Harrison LiveTrax. Exact WinGet downloads are preferred where reviewed. Signed software catalog updates can ship separately.",
-  "bytes": 64814501,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.33-preview.1/PAKKI-update.zip"
+  "version": "0.5.34",
+  "notes": "Per-app Update for reviewed REAPER x64 installations. Shows installed and target versions and keeps the installation verified through the existing acquisition flow.",
+  "bytes": 64818514,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.34-preview.1/PAKKI-update.zip"
 }
