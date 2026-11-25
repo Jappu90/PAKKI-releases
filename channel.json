@@ -1,6 +1,6 @@
 {
-  "version": "0.5.37",
-  "notes": "Outlined settings fields, normal startup scaling, direct vendor links, browser and dock fixes, and prompt Apps refresh after close.",
-  "bytes": 64820291,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.37-preview.1/PAKKI-update.zip"
+  "version": "0.5.38",
+  "notes": "Fix the dLive iframe race by applying the shared scrollbar stylesheet at document creation.",
+  "bytes": 64818519,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.38-preview.1/PAKKI-update.zip"
 }
