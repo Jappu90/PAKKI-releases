@@ -1,6 +1,6 @@
 {
-  "version": "0.5.36",
-  "notes": "Settings checkboxes and switches place the label and checkmark inside one outlined touch target.",
-  "bytes": 64818797,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.36-preview.1/PAKKI-update.zip"
+  "version": "0.5.37",
+  "notes": "Outlined settings fields, normal startup scaling, direct vendor links, browser and dock fixes, and prompt Apps refresh after close.",
+  "bytes": 64820291,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.37-preview.1/PAKKI-update.zip"
 }
