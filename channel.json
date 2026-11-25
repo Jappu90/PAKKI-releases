@@ -1,6 +1,6 @@
 {
-  "version": "0.5.35",
-  "notes": "Consistent settings actions, outlined sliders, clearer popups, and better separation of Browser and Display controls.",
-  "bytes": 64818719,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.35-preview.1/PAKKI-update.zip"
+  "version": "0.5.36",
+  "notes": "Settings checkboxes and switches place the label and checkmark inside one outlined touch target.",
+  "bytes": 64818797,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.36-preview.1/PAKKI-update.zip"
 }
