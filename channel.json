@@ -1,6 +1,6 @@
 {
-  "version": "0.5.40",
-  "notes": "Consistent action widths and reusable Settings spacing.",
-  "bytes": 64820356,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.40-preview.1/PAKKI-update.zip"
+  "version": "0.5.41",
+  "notes": "Unified Settings layout, compact date and time, and working update scroll.",
+  "bytes": 64820307,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.41-preview.1/PAKKI-update.zip"
 }
