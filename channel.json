@@ -1,6 +1,6 @@
 {
-  "version": "0.5.39",
-  "notes": "Faster browser controls, a guided vendor installer dialog and consistent Network fields and spacing.",
-  "bytes": 64820444,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.39-preview.1/PAKKI-update.zip"
+  "version": "0.5.40",
+  "notes": "Consistent action widths and reusable Settings spacing.",
+  "bytes": 64820356,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.40-preview.1/PAKKI-update.zip"
 }
