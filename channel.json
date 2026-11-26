@@ -1,6 +1,6 @@
 {
-  "version": "0.5.44",
-  "notes": "Top-center floating dock, compact scale controls and consistent horizontal dividers.",
-  "bytes": 64821396,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.44-preview.1/PAKKI-update.zip"
+  "version": "0.5.45",
+  "notes": "Keeps the active field visible above the Windows keyboard and makes the launcher clock easier to read.",
+  "bytes": 64824994,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.45-preview.1/PAKKI-update.zip"
 }
