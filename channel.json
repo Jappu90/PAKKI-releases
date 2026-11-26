@@ -1,6 +1,6 @@
 {
-  "version": "0.5.41",
-  "notes": "Unified Settings layout, compact date and time, and working update scroll.",
-  "bytes": 64820307,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.41-preview.1/PAKKI-update.zip"
+  "version": "0.5.42",
+  "notes": "Full-width Settings workspace with compact controls.",
+  "bytes": 64820270,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.42-preview.1/PAKKI-update.zip"
 }
