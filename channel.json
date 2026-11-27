@@ -1,6 +1,6 @@
 {
-  "version": "0.5.47",
-  "notes": "The Home pager shares a bottom row with Edit.",
-  "bytes": 64825788,
-  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.47-preview.1/PAKKI-update.zip"
+  "version": "0.5.48",
+  "notes": "Home keeps the current page in Edit and Move tiles.",
+  "bytes": 64825812,
+  "source": "https://github.com/Jappu90/PAKKI-releases/releases/download/v0.5.48-preview.1/PAKKI-update.zip"
 }
